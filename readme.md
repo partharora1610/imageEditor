@@ -12,6 +12,10 @@ This project currently works in terminal only, and it accepts image path from th
 1. Gray Scale
 1. Blur (Copied this and will implement this later on my own)
 
+## How to use this project
+
+Add any image of your choice in the assets folder and then run the application in the terminal to edit the image.
+
 ### New Things I learned in this project
 
 - Learned how to handle bufferedImages.

@@ -45,3 +45,4 @@ This class contains all the filters that can be applied on the image. It has a f
 
 - Implement GUI using JavaFx.
 - Implement blur filter.
+- Implement blur filter.
